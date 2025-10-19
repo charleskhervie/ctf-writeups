@@ -1,5 +1,5 @@
 # ctf-writeups
-# 🧠 CTF Writeups by siomai
+
 
 Welcome to my collection of Capture The Flag (CTF) writeups!  
 This repository documents my learning process in cybersecurity and reverse engineering through various CTF events and challenges.
